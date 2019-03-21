@@ -45,6 +45,10 @@
   "author": {
     "name": "Andrew McNutt <> (https://www.mcnutt.in/)"
   },
+  "repository":"{
+    "type":"git",
+    "url":"https://github.com/mcnuttandrew/tap-react-browser.git"
+  },
   "module": "es",
   "babel": {
     "env": {
